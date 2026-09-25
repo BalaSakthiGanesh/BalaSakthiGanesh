@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bala Sakthi Ganesh P</h1>
 
-<h3 align="center">Software Engineer | Python Developer | Data Science & Machine Learning Enthusiast</h3>
+<h3 align="center">Software Engineer | Python Developer | Data Science & Machine Learning </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=balasakthiganesh&label=Profile%20Views&color=0e75b6&style=flat" alt="balasakthiganesh" />
