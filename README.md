@@ -212,11 +212,13 @@ Tilak Vidyalaya H.S.S. · State Board
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balasakthiganesh&show_icons=true&locale=en" alt="Bala Sakthi Ganesh GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=balasakthiganesh&show_icons=true&theme=tokyonight&hide_border=true" 
+       alt="Bala Sakthi Ganesh GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balasakthiganesh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balasakthiganesh&layout=compact&theme=tokyonight&hide_border=true" 
+       alt="Top Languages" />
 </p>
 
 ---
