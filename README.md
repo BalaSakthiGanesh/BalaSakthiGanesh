@@ -209,8 +209,6 @@ Tilak Vidyalaya H.S.S. · State Board
 
 ---
 
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
