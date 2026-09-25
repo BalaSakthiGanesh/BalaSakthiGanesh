@@ -107,10 +107,11 @@ Built a machine learning project to analyze historical football data and predict
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
 </p>
 
 * MongoDB
+* PostgreSQL
 * SQL
 
 ### Data Science & Machine Learning
